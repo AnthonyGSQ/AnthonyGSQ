@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ConnectFour](https://github.com/AnthonyGSQ/ConnectFour)
 
-- 🌱 I’m currently learning **wxWidgets, event-driven-programming and file handing**
+- 🌱 I’m currently learning **algorithms, computational complexity, and computer architecture.**
 
 - 📫 How to reach me **anthony.software.dev@gmail.com**
 
