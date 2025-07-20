@@ -7,8 +7,6 @@
 Welcome to my GitHub! I'm a Computer Science student passionate about **low-level programming**, **concurrent systems**, and **performance optimization**. My work spans from Assembly language game development to distributed computing solutions.
 
 - 🌱 I'm currently learning **operating systems, algorithms, and computational complexity**
-- 📫 How to reach me **anthonysq.software.dev@gmail.com**
-
 ## 🚀 Featured Projects
 
 ### 🎮 Missile Command - Assembly Game Engine
